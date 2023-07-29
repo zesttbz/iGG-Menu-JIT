@@ -41,7 +41,6 @@ You can change this to anything you want to patch on the line where I noted in `
 
 - Font using for this menu is Honkai Star Rail font (**English only**)
 
-# If you like and want to ỉmprove this works, please DM me on Telegram @little34306 for fixing stuffs and make it working better. (Pull request button is on the top, you can do that!)
 
 # Author
 - [zest](https://github.com/zesttbz) (it's me)
