@@ -44,7 +44,7 @@ You can change this to anything you want to patch on the line where I noted in `
 # If you like and want to ỉmprove this works, please DM me on Telegram @little34306 for fixing stuffs and make it working better. (Pull request button is on the top, you can do that!)
 
 # Author
-- [zest](https://github.com/zesttbz)
+- [zest](https://github.com/zesttbz) (it's me)
 - [WeansHHN](https://github.com/weanshhn) for [iGG](https://github.com/WeansHHN/iGG-Menu-JIT-Rootless)
 - [34306](https://github.com/34306) for [Rootless source code](https://github.com/34306/HuyJIT-ModMenu)
 - [x2nios](https://github.com/x2niosvn) for [iGG Mod Menu](https://github.com/x2niosvn/)
